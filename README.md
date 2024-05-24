@@ -6,17 +6,17 @@ This project aims to predict employee salaries based on various features such as
 
 - [Data Preprocessing](#Data Preprocessing)
   
--[Exploratory Data Analysis](#Exploratory Data Analysis)
+- [Exploratory Data Analysis](#Exploratory Data Analysis)
 
--[Feature Engineering](#Feature Engineering)
+- [Feature Engineering](#Feature Engineering)
 
--[Model Development](#Model Development)
+- [Model Development](#Model Development)
 
--[Model Evaluation](#Model Evaluation)
+- [Model Evaluation](#Model Evaluation)
 
--[Custom Predictions](#Custom Predictions)
+- [Custom Predictions](#Custom Predictions)
 
--[Results](#Results)
+- [Results](#Results)
 
 ## Introduction
 The goal of this project is to develop a predictive model for employee salaries using linear regression. The steps include data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
