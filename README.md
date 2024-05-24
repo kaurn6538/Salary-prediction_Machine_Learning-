@@ -2,7 +2,7 @@
 This project aims to predict employee salaries based on various features such as age, gender, degree, job title, and years of experience. The dataset used for this analysis is Dataset09-Employee-salary-prediction.csv.
 
 ## Table of Contents
--Introduction
+- [Introduction](#Introduction)
 
 Data Preprocessing
 Exploratory Data Analysis
