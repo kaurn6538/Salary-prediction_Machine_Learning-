@@ -1,6 +1,9 @@
 ## Employee Salary Prediction
 This project aims to predict employee salaries based on various features such as age, gender, degree, job title, and years of experience. The dataset used for this analysis is Dataset09-Employee-salary-prediction.csv.
 
+![20191202130611-salarypicture](https://github.com/kaurn6538/Salary_Prediction_Machine_Learning/assets/98873779/ea5fcf74-309a-42da-a740-3cc4dc7477ea)
+
+
 ## Table of Contents
 - [Introduction](#Introduction)
 
