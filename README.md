@@ -5,20 +5,13 @@ This project aims to predict employee salaries based on various features such as
 
 
 ## Table of Contents
-- [Introduction](#Introduction)
-
+- [Introduction](#Introduction).
 - [Data Preprocessing](#Data Preprocessing)
-  
 - [Exploratory Data Analysis](#Exploratory Data Analysis)
-
 - [Feature Engineering](#Feature Engineering)
-
 - [Model Development](#Model Development)
-
 - [Model Evaluation](#Model Evaluation)
-
 - [Custom Predictions](#Custom Predictions)
-
 - [Results](#Results)
 
 ## Introduction
